@@ -6,7 +6,7 @@
 
 Before we get started, please note that this project explores the systemic immunological modifications in type 2 diabetes mellitus (T2DM) patients with periodontitis using single-cell RNA sequencing (scRNA-seq) data. The dataset is sourced from [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE244515). The dataset is companion to the report **"Uncovering systemic immunological modification by type 2 diabetes mellitus in periodontitis patients via single-cell RNA analysis"** by [Lee et al., 2024](https://pubmed.ncbi.nlm.nih.gov/38082425/).
 
-This project served as my introduction to scRNA-seq analysis! 
+This project served as my introduction to scRNA-seq analysis! I followed the [SC Best Practices](https://www.sc-best-practices.org/introduction/analysis_tools.html) tutorial to gain footing.
 
 ---
 
